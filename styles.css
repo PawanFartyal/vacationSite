@@ -87,6 +87,9 @@ p {
     .pe-custom {
         padding-right: 0;
     }
+    nav a {
+        font-size:.75rem;
+    }
     .right-10 {
         left: 50%;
         transform: translate(-50%,0);
